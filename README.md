@@ -40,6 +40,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [John Mwendwa](https://johnmwendwa.vercel.app/)
-- Frontend Mentor - [@JohnMwendwa](https://www.frontendmentor.io/profile/JohnMwendwa)
+- Website -  [https://bettgideon.github.io/-document-case-resume-portfolio/]
+- Frontend Mentor - [https://bettgideon.github.io/-document-case-resume-portfolio/]
 "# social-profile-card" 
